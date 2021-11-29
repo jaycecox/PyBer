@@ -35,7 +35,7 @@ As you can see below, the amount of fares are steady for each city category, exc
 ## Summary 
 To address the disparities among the city types I recommend:
 
-* In order to bring 'Total Fares' for rural and suburban areas up, I recommend increasing the nummber of drivers for these areas. This will increase the 'Total Rides' in these areas and thus increase the 'Total Fares' for the rural and suburban areas. 
+* In order to bring 'Total Fares' for rural and suburban areas up, I recommend increasing the number of drivers for these areas. This will increase the 'Total Rides' in these areas and thus increase the 'Total Fares' for the rural and suburban areas. 
 
 * In order to increase 'Average Fare per Ride' and 'Average Fare per Driver' for urban areas, I recommend increasing the fare cost per ride. 
 
