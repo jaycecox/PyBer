@@ -22,7 +22,7 @@ Overall, the urban city types have higher 'Total Rides', 'Total Drivers', and 'T
 
 We notice that the rural type cities have the highest 'Average Fare per Ride' and highest 'Average Fare per Driver', whereas urban type cities have the lowest 'Average Fare per Ride' and 'Average Fare per Driver'.  This suggests that rural areas tend to have longer ride times than urban areas, as the longer the ride the higher the trip fare. 
 
-Suburban city types are in the middle for are metrics measured. 
+Suburban city types are in the middle for all metrics measured. 
 
 ![DataFrame Summary](https://user-images.githubusercontent.com/92542382/143794529-42ccf763-bb73-4d3f-8737-fcab6be2ec86.png)
 
